@@ -6,3 +6,5 @@
 
 > 按数据流 流向 不同分为：输入流，输出流
 
+抽象基类：InputStream、OutputStream、Reader、Writer
+- Java的IO流共涉及40多个类，实际上非常规则，都是从如下4个抽象类派生的
